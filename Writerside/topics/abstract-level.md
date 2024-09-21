@@ -277,12 +277,12 @@ Algunos ejemplos de lenguajes de muy alto nivel son:
   servicios web.
 - **YAML**: Es un lenguaje de serialización de datos de muy alto nivel que se utiliza principalmente para programar
   archivos de configuración.
-    - **Markdown**: Es un lenguaje de marcado de muy alto nivel que se utiliza principalmente para programar documentos
+- **Markdown**: Es un lenguaje de marcado de muy alto nivel que se utiliza principalmente para programar documentos
       simples.
-    - **LaTeX**: Es un lenguaje de composición de textos de muy alto nivel que se utiliza principalmente para programar
-      documentos científicos.
-    - **Bash**: Es un lenguaje de scripting de muy alto nivel que se utiliza principalmente para programar scripts de
-      automatización.
+- **LaTeX**: Es un lenguaje de composición de textos de muy alto nivel que se utiliza principalmente para programar
+  documentos científicos.
+- **Bash**: Es un lenguaje de scripting de muy alto nivel que se utiliza principalmente para programar scripts de
+  automatización.
 
 ## Conclusión
 
