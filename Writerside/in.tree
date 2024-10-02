@@ -10,14 +10,24 @@
     <toc-element topic="lenguage.md">
         <toc-element topic="abstract-level.md"/>
         <toc-element topic="process.md"/>
-        <toc-element topic="paradigm.md"/>
+        <toc-element topic="paradigm.md">
+            <toc-element topic="lenguajes-paradigmas.md"/>
+        </toc-element>
     </toc-element>
     <toc-element topic="project-costs.md">
         <toc-element topic="analog-stimation.md"/>
         <toc-element topic="parametric.md"/>
-        <toc-element topic="hora-hombre.md"/>
+        <toc-element topic="hora-hombre.md">
+            <toc-element topic="hora-homre-ejercicios.md"/>
+        </toc-element>
         <toc-element topic="three-point.md"/>
         <toc-element topic="function-points.md"/>
+        <toc-element topic="loc.md"/>
         <toc-element topic="consideraciones.md"/>
+    </toc-element>
+    <toc-element topic="software-programacion.md"/>
+    <toc-element topic="proyectos.md">
+        <toc-element topic="definicion-proyecto.md"/>
+        <toc-element topic="pmbook.md"/>
     </toc-element>
 </instance-profile>

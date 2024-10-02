@@ -57,7 +57,7 @@ El proceso de estimación por Puntos de Función consta de los siguientes pasos:
    Función sin ajustar por el factor de ajuste.
 6. **Revisar y validar la estimación**: Revisar y validar la estimación de los Puntos de Función para garantizar su
    precisión y realismo.
-    
+
 ## Ejemplo de Estimación por Puntos de Función
 
 Para ilustrar el proceso de estimación por Puntos de Función, consideremos el siguiente ejemplo:
@@ -69,4 +69,20 @@ inventario. El equipo ha identificado las siguientes funciones del sistema:
 - Actualizar la cantidad de un producto en el inventario.
 - Generar un informe de inventario.
 - Realizar una búsqueda de productos en el inventario.
-- 
+- Eliminar un producto del inventario.
+- Generar una alerta cuando un producto está por agotarse.
+- Realizar una copia de seguridad de la base de datos del inventario.
+
+El equipo ha clasificado estas funciones en función de su complejidad y su impacto en la estimación de los Puntos de
+Función. Luego, ha calculado los Puntos de Función sin ajustar sumando los Puntos de Función de cada función del
+sistema.
+
+Finalmente, el equipo ha aplicado los factores de ajuste para ajustar los Puntos de Función sin ajustar en función de
+varios factores, como la complejidad del sistema, la experiencia del equipo de desarrollo, etc. Con esto, ha calculado
+los Puntos de Función ajustados del sistema de gestión de inventario.
+
+## Conclusión
+
+Los Puntos de Función son una técnica de estimación de tamaño de software que se basa en la medición de las funciones
+que un sistema de software proporciona a los usuarios. Esta técnica de estimación es útil para planificar y controlar
+proyectos de desarrollo de software, ya que proporciona una medida objetiva del tamaño y la complejidad del sistema.
