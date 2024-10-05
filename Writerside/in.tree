@@ -29,5 +29,12 @@
     <toc-element topic="proyectos.md">
         <toc-element topic="definicion-proyecto.md"/>
         <toc-element topic="pmbook.md"/>
+        <toc-element topic="life-cicle.md">
+            <toc-element topic="cicle-types.md"/>
+        </toc-element>
+        <toc-element topic="development-cycle.md">
+            <toc-element topic="sdlc-example.md"/>
+        </toc-element>
+        <toc-element topic="software-requeriments.md"/>
     </toc-element>
 </instance-profile>
