@@ -29,6 +29,7 @@
     <toc-element topic="proyectos.md">
         <toc-element topic="definicion-proyecto.md"/>
         <toc-element topic="pmbook.md"/>
+        <toc-element topic="dcu.md"/>
         <toc-element topic="life-cicle.md">
             <toc-element topic="cicle-types.md"/>
         </toc-element>
@@ -40,5 +41,8 @@
     <toc-element topic="database.md">
         <toc-element topic="bd-models.md"/>
         <toc-element topic="sql-models.md"/>
+        <toc-element topic="sql-lenguage.md"/>
+        <toc-element topic="joins.md"/>
     </toc-element>
+    <toc-element topic="development-platforms.md"/>
 </instance-profile>

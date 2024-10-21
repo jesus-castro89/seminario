@@ -1,24 +1,28 @@
 @startuml
-hide circle
-skinparam linetype ortho
-entity "Entity01" as e01 {
-  e1_id : number <<generated>>
+entity "Sala" {
+  + id [PK]
   --
-  name : text
-  description : text
+  + name
+  + capacity
 }
-entity "Entity02" as e02 {
-  e2_id : number <<generated>>
+
+entity "People" {
+  + id [PK]
   --
-  e1_id : number <<FK>>
-  other_details : text
+  + name
+  + surname
+  + email
+  + password
+  + role
 }
-entity "Entity03" as e03 {
-  e3_id : number <<generated>>
+
+entity "Reservation" {
+  + id [PK]
   --
-  e1_id : number <<FK>>
-  other_details : text
+  + date
+  + time
+  + people
+  + sala_id [FK]
+  + people_id [FK]
 }
-e01 ||..o{ e02
-e01 |o..o{ e03
 @enduml
